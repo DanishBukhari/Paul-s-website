@@ -1,0 +1,36 @@
+body{
+    background-image: url("/enter-page/Background/Background_EnterPage.png");
+    background-repeat:no-repeat;
+    background-size:cover;
+    height: 94vh;
+    width:1358px;
+    /* background-position:center ; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* .parent{
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+    top: 0;
+    left: 0;
+} */
+
+#enter-illus{
+    width: 1458px;
+    height:103vh;
+    position: relative;
+    top: 0;
+    left: -0.3%;
+  
+}
+#hand-illus{
+    width: 28vw;
+    height: 20vh;
+    z-index: 1;
+    position: absolute;
+    top: 60%;
+    left: 34%;
+}
