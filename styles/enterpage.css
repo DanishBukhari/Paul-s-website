@@ -3,7 +3,7 @@ body{
     background-repeat:no-repeat;
     background-size:cover;
     height: 94vh;
-    width:1358px;
+    width:99vw;
     /* background-position:center ; */
     display: flex;
     justify-content: center;
@@ -19,7 +19,7 @@ body{
 } */
 
 #enter-illus{
-    width: 1458px;
+    width: 100vw;
     height:103vh;
     position: relative;
     top: 0;
